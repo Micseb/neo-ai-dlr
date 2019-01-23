@@ -1,0 +1,9 @@
+[submodule "3rdparty/neo-ai-tvm"]
+	path = 3rdparty/neo-ai-tvm
+	url = https://github.com/neo-ai/neo-ai-tvm.git
+[submodule "3rdparty/neo-ai-treelitegit"]
+	path = 3rdparty/neo-ai-treelite
+	url = https://github.com/neo-ai/neo-ai-treelite.git
+[submodule "3rdparty/neo-ai-treelite"]
+	path = 3rdparty/neo-ai-treelite
+	url = https://github.com/neo-ai/neo-ai-treelite.git
