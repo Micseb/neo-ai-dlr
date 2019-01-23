@@ -56,9 +56,9 @@ FILE(GLOB_RECURSE DLR_INC
     "${TREELITE_SRC}/include/*.h"
 )
 
-set(USE_CUDA ON)
-set(USE_CUDNN ON)
-set(USE_TENSORRT ON)
+set(USE_CUDA OFF)
+set(USE_CUDNN OFF)
+set(USE_TENSORRT OFF)
 
 if(USE_CUDA STREQUAL "ON")
     message("USING CUDA")
